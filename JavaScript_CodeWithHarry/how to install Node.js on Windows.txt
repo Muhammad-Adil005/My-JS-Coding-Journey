@@ -1,0 +1,14 @@
+1) Search Node js install on Google
+
+2) Open Terminal and write node -v to show the node js
+installed version. 
+
+3) click on Node js Official website and click on 
+prebuilt Installer
+
+4) Download the version having lts written LTS means
+long term support  and select window
+
+5) Install it by clicking Next, Next and Next
+
+6) 
