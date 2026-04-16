@@ -1,0 +1,48 @@
+<html>
+<head>
+</head>
+<body>
+
+<h1> JavaScript arrays are used to store multiple values in a single variable. </h1>
+<h2>JavaScript Arrays</h2>
+<h3> Accessing the Array Element Start From Zero[0] </h3>
+
+<p id="demo"></p>
+<p id="demo1"></p>
+
+
+<script>
+
+let car = ["Suzuki", "premo", "Volvo"];
+const fruits = ["Apple", "Banana", "Grapes", "Pine Apple"];
+document.getElementById("demo").innerHTML= car;
+document.getElementById("demo1").innerHTML= fruits[3];
+</script>
+
+
+<h2>JavaScript Arrays</h2>
+
+<p>The push method appends a new element to an array.</p>
+
+<button onclick="myFunction()">Click Me! </button>
+
+<p id="demo2"></p>
+<script>
+const fruit = ["Apple", "Banana", "Grapes", "Pine Apple"];
+document.getElementById("demo2").innerHTML= fruit;
+
+function myFunction() {
+  fruit.push("Lemon"); // Push is used to Add a new element to an Array 
+  document.getElementById("demo2").innerHTML = fruit;
+}
+</script>
+
+
+
+<!-- The JavaScript method toString() converts an array to a string of (comma separated) array values.  -->
+
+
+
+
+</body>
+</html>
