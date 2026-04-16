@@ -1,0 +1,90 @@
+What is JavaScript?
+JS is a programming language. We use it to give instructions to the computer.
+ Input(code) => Computer => Output
+ Instruction
+ 1 + 2       ==               3
+
+Question :> What is Programming language?
+When a Day to Day life we Interact with each others so we use a different languages.
+like english, urdu etc for communication. if we want to talk to the computer then we used
+a languages called Programming languages like C++, JAVA, etc.because computer doesn't know
+the normal languages its know only computer languages.
+
+Note :> Inside a browser like chrome etc there is an option called Console where we can 
+write our own Javascript Code.
+
+Like :>   alert("Hello JS"); when we enter then the Dialog will open
+
+Note :>  Writing code inside console of chrome are temporarily method.
+
+
+Note :> Console.log is used to log(print) a message to the console.
+console.log("Hello JS");
+
+
+Variables :> Variables are containers for data.
+
+Note :> Difference b/w null and undefined
+
+x = null;
+y = undefined;
+
+console.log(x);
+console.log(y);
+
+Output :
+
+null
+undefined
+
+Undefined mean pata he nahi hay k is k andar keya hay
+null mean pata he but value khale hay
+
+Note :> Data Types in Javascript
+
+ Primitive                     vs             Non-Primitive 
+ Primitive Data Types are
+  fixed Data Types.     
+ 
+7) Primitive Data Types are in
+    JavaScript
+number, String, bool, 
+undefined, null, BigInt,symbol                      Objects : collection of values
+                                                         Arrays, functions
+
+
+Interview Question:>  Can you change const value and const collection value?
+Ans : You cannot change the const value. But you can change the const collection value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

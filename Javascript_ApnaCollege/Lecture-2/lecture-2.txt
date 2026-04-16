@@ -1,0 +1,48 @@
+Operators & Conditional Statements
+
+
+Comments:> Part of code which is not executed
+//  This is single line comment
+
+/*
+      This is multi line comment
+
+*/
+
+
+Note :> Operators in JS
+used to perform some operation on data
+
+Arithmetic Operators
+ +, -, *, / , Modulus, Exponentiation, increment, decrement
+
+
+Conditional Statement :> To implement some condition in the code
+
+if Statement, if-else Statement.
+
+Ternary Operator :> condition ? true : false
+if condition true retuen true else return false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

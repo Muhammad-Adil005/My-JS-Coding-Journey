@@ -1,0 +1,11 @@
+// Note :> String vs Array : String is immutable and array is mutable. its means we can't change the value of Strig but we can change the value of array
+
+
+// Arrays are used to store different types of Data
+
+
+// Arrays is a collections of items
+
+// Array have no data type in javascript, Array itself as an object Data Type
+
+
